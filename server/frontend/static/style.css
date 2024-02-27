@@ -124,3 +124,10 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+
+.hr-for-contact-page {
+  margin-right: 10px;
+  margin-left: 10px;
+  border: solid black 2px;
+}
